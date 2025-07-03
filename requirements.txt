@@ -1,0 +1,13 @@
+streamlit
+selenium
+pandas
+torch
+torchvision
+transformers
+tqdm
+regex
+ftfy
+scikit-learn
+python-dotenv
+requests
+webdriver-manager
